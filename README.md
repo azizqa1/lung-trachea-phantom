@@ -40,6 +40,6 @@ FDM 3D Printer-Multi-material fabrication
 
  Files
 - `/Lungs_Screenshots` — Process screenshots from InVesalius and GOM Inspect
-- `/Invesalius` — Segmentation project files
-- `/GoM_Inspect_Lungs_Trachea` — Mesh inspection files
+- `/Invesalius` — Segmentation project files(too big file)
+- `/GoM_Inspect_Lungs_Trachea` — Mesh inspection files(too big file)
 - `/3D_Builder` — Mold and die geometry files
